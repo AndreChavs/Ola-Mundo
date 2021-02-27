@@ -1,4 +1,5 @@
 # Olá, Mundo !
  Primeiro Repositório versionado
-    durante uma aula aovivo.
-    alteração remota diretamente pelo GitHub
+    durante uma aula aovivo.    
+    
+Alteração remota diretamente pelo GitHub
